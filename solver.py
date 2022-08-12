@@ -60,6 +60,6 @@ if __name__ == "__main__":
     peli.reset()
 
     while True:
-        guess = list(input("guess: "))
-        colors = list(input("colors: "))
+        guess = list(input("Guessed word: "))
+        colors = list(input("Letter colors: "))
         peli.guess(guess, colors)
