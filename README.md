@@ -1,2 +1,2 @@
 # sanuli-regex
-Solving the Finnish Wordle game using only one Regex pattern
+Solving the Finnish version of the Wordle game using a single Regex match
